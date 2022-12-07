@@ -11,4 +11,4 @@ lenght_for_pass= 8
 password= "".join(random.sample(Use_for, lenght_for_pass))
 
 print("Sua senha gerada foi:",password)
-print("You passoword generate is:",password)
+print("You passoword generate was:",password)
